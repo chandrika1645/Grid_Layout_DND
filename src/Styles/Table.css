@@ -1,0 +1,12 @@
+.appliance-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+  
+.appliance-table th, .appliance-table td {
+    border: 1px solid #ddd; 
+    padding: 8px;
+    text-align: left;
+}
+  

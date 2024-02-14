@@ -1,0 +1,26 @@
+
+.dynamic-component {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-size: 16px;
+  font-weight: medium;
+  color: black; /* Optional: Set text color to white */
+  overflow: hidden;
+  user-select: none;
+  /* border: 1px solid #ddd; */
+  padding-left: 10px;
+  
+}
+.layout{
+  background-color: rgb(138, 136, 136);
+  height: 100%;
+  min-height: 100%;
+}
+
+.pdf-button{
+  background-color: white;
+  
+}
+
